@@ -18,3 +18,4 @@ Os testes estão implementados em `main.cpp` e utilizam `assert()` para verifica
 ## ArraySequence
 
 ### Executar os testes
+Os testes estão implementados em `main.cpp` e basta usar o comando `make` seguido de `./programa` para executar.
